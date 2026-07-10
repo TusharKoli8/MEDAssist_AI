@@ -320,13 +320,13 @@ A typical interaction may include:
 
 ## Limitations and Future Work
 
-While the current implementation demonstrates the full architecture and workflow, there are several areas for future improvement:
+The current implementation already includes an Azure-ready deployment approach and a working local/containerized architecture. The next steps focus on strengthening production readiness and scaling the system further:
 
 - improve retrieval precision with reranking and better metadata filtering
 - strengthen error handling and fallback behavior for failed model calls
 - expand evaluation coverage with a larger golden dataset
-- enhance deployment to Azure or other cloud platforms
-- improve robustness for production-grade healthcare workflows
+- refine Azure deployment operations with production monitoring, autoscaling, and secure configuration management
+- improve robustness for real-world healthcare workflows and enterprise integration
 
 ## Conclusion
 
