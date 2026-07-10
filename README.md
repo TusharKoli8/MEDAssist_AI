@@ -325,7 +325,6 @@ The current implementation already includes an Azure-ready deployment approach a
 - improve retrieval precision with reranking and better metadata filtering
 - strengthen error handling and fallback behavior for failed model calls
 - expand evaluation coverage with a larger golden dataset
-- refine Azure deployment operations with production monitoring, autoscaling, and secure configuration management
 - improve robustness for real-world healthcare workflows and enterprise integration
 
 ## Conclusion
