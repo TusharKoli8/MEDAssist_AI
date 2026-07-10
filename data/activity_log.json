@@ -1,0 +1,360 @@
+[
+  {
+    "timestamp": "2026-07-10T07:22:24.877559",
+    "event_type": "chat",
+    "detail": {
+      "query": "How many skin conditions are labeled in the image?",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 5.16,
+    "tokens_estimate": 40
+  },
+  {
+    "timestamp": "2026-07-10T07:23:12.860254",
+    "event_type": "chat",
+    "detail": {
+      "query": "How many times a day should Cimetidine be taken?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 8.05,
+    "tokens_estimate": 42
+  },
+  {
+    "timestamp": "2026-07-10T07:24:19.342004",
+    "event_type": "chat",
+    "detail": {
+      "query": "Who is the doctor that signed the prescription?",
+      "agent_path": "retriever",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 1.87,
+    "tokens_estimate": 45
+  },
+  {
+    "timestamp": "2026-07-10T08:23:42.876902",
+    "event_type": "chat",
+    "detail": {
+      "query": "what are the medicine written in the prescription",
+      "agent_path": "retriever",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 4.01,
+    "tokens_estimate": 177
+  },
+  {
+    "timestamp": "2026-07-10T08:27:43.463640",
+    "event_type": "chat",
+    "detail": {
+      "query": "What medicines are written in the prescription image?",
+      "agent_path": "ocr",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 23.35,
+    "tokens_estimate": 38
+  },
+  {
+    "timestamp": "2026-07-10T08:28:17.523228",
+    "event_type": "chat",
+    "detail": {
+      "query": "What is the dosage of Betaloc in the prescription?",
+      "agent_path": "retriever",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 2.11,
+    "tokens_estimate": 29
+  },
+  {
+    "timestamp": "2026-07-10T08:29:12.886084",
+    "event_type": "chat",
+    "detail": {
+      "query": "what does this complite image define",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 3.59,
+    "tokens_estimate": 179
+  },
+  {
+    "timestamp": "2026-07-10T08:30:08.888528",
+    "event_type": "chat",
+    "detail": {
+      "query": "What is the patient's name and age in the prescription?",
+      "agent_path": "retriever",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 2.31,
+    "tokens_estimate": 44
+  },
+  {
+    "timestamp": "2026-07-10T08:31:00.323706",
+    "event_type": "chat",
+    "detail": {
+      "query": "What does the hand image show?",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 3.35,
+    "tokens_estimate": 156
+  },
+  {
+    "timestamp": "2026-07-10T08:39:48.495260",
+    "event_type": "chat",
+    "detail": {
+      "query": "1.\tWhat documents are required for a cashless admission?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 2.63,
+    "tokens_estimate": 128
+  },
+  {
+    "timestamp": "2026-07-10T08:40:46.473731",
+    "event_type": "chat",
+    "detail": {
+      "query": "What happens if the expected bill exceeds the approved amount by 10% or more?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 1.75,
+    "tokens_estimate": 81
+  },
+  {
+    "timestamp": "2026-07-10T08:41:18.859576",
+    "event_type": "chat",
+    "detail": {
+      "query": "What are the components of a valid informed consent?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 2.17,
+    "tokens_estimate": 95
+  },
+  {
+    "timestamp": "2026-07-10T08:42:04.758262",
+    "event_type": "chat",
+    "detail": {
+      "query": "What were the discharge medications for patient HSP1001?",
+      "agent_path": "mcp",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 2.84,
+    "tokens_estimate": 25
+  },
+  {
+    "timestamp": "2026-07-10T08:42:38.429614",
+    "event_type": "chat",
+    "detail": {
+      "query": ". What is the emergency contact number for the ICU?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 2.34,
+    "tokens_estimate": 25
+  },
+  {
+    "timestamp": "2026-07-10T08:43:07.205220",
+    "event_type": "chat",
+    "detail": {
+      "query": "Can a hospital deny treatment if insurance approval is pending?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 2.05,
+    "tokens_estimate": 65
+  },
+  {
+    "timestamp": "2026-07-10T08:43:54.762045",
+    "event_type": "chat",
+    "detail": {
+      "query": "What is the dosage of Betaloc in the prescription?",
+      "agent_path": "retriever",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 2.31,
+    "tokens_estimate": 29
+  },
+  {
+    "timestamp": "2026-07-10T08:45:04.154225",
+    "event_type": "chat",
+    "detail": {
+      "query": "which medicines are written in the prescription image and there dosages",
+      "agent_path": "ocr",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 18.19,
+    "tokens_estimate": 175
+  },
+  {
+    "timestamp": "2026-07-10T08:46:18.183002",
+    "event_type": "chat",
+    "detail": {
+      "query": "what does the image define",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 3.09,
+    "tokens_estimate": 75
+  },
+  {
+    "timestamp": "2026-07-10T08:46:51.733621",
+    "event_type": "chat",
+    "detail": {
+      "query": "What is Ecchymosis as seen in the image?",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 4.38,
+    "tokens_estimate": 30
+  },
+  {
+    "timestamp": "2026-07-10T09:12:54.478794",
+    "event_type": "chat",
+    "detail": {
+      "query": "Can a patient's data be shared via personal email with a treating doctor?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 55.54,
+    "tokens_estimate": 86
+  },
+  {
+    "timestamp": "2026-07-10T09:13:49.315195",
+    "event_type": "chat",
+    "detail": {
+      "query": "What are the patient's core rights?",
+      "agent_path": "retriever",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 13.15,
+    "tokens_estimate": 270
+  },
+  {
+    "timestamp": "2026-07-10T09:15:11.416567",
+    "event_type": "upload",
+    "detail": {
+      "filename": "HOSPITAL OPERATIONS .pdf",
+      "chunk_count": 62
+    },
+    "response_time": 38.53,
+    "tokens_estimate": null
+  },
+  {
+    "timestamp": "2026-07-10T09:16:10.595348",
+    "event_type": "chat",
+    "detail": {
+      "query": "What is the difference between a Vesicle and a Bulla?",
+      "agent_path": "retriever",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 13.67,
+    "tokens_estimate": 51
+  },
+  {
+    "timestamp": "2026-07-10T09:16:53.522045",
+    "event_type": "chat",
+    "detail": {
+      "query": "How many skin conditions are labeled in the image?",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 13.85,
+    "tokens_estimate": 25
+  },
+  {
+    "timestamp": "2026-07-10T09:17:38.733017",
+    "event_type": "chat",
+    "detail": {
+      "query": "named the skin conditions label in this image",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 10.87,
+    "tokens_estimate": 109
+  },
+  {
+    "timestamp": "2026-07-10T09:18:45.823409",
+    "event_type": "chat",
+    "detail": {
+      "query": "What was the HbA1c result for patient ID 1001?",
+      "agent_path": "mcp",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 21.83,
+    "tokens_estimate": 33
+  },
+  {
+    "timestamp": "2026-07-10T09:20:04.866760",
+    "event_type": "chat",
+    "detail": {
+      "query": "Show all past admissions for patient ID 2045",
+      "agent_path": "mcp",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 38.89,
+    "tokens_estimate": 140
+  },
+  {
+    "timestamp": "2026-07-10T09:35:14.644435",
+    "event_type": "chat",
+    "detail": {
+      "query": "Show me the lab results for patient ID 1001",
+      "agent_path": "mcp",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 26.37,
+    "tokens_estimate": 182
+  },
+  {
+    "timestamp": "2026-07-10T09:38:36.626087",
+    "event_type": "chat",
+    "detail": {
+      "query": "Show blood test reports for patient ID 3022",
+      "agent_path": "mcp",
+      "had_image": false,
+      "error": false
+    },
+    "response_time": 26.26,
+    "tokens_estimate": 193
+  },
+  {
+    "timestamp": "2026-07-10T09:46:57.987519",
+    "event_type": "chat",
+    "detail": {
+      "query": "What does the hand image show?",
+      "agent_path": "vision",
+      "had_image": true,
+      "error": false
+    },
+    "response_time": 5.23,
+    "tokens_estimate": 120
+  }
+]
