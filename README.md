@@ -1,10 +1,10 @@
 ﻿# MediAssist AI
 
-## Project Overview
+## About
 
-MediAssist AI is an intelligent healthcare assistant designed to support hospital staff by combining conversational AI with enterprise-style knowledge retrieval and structured clinical data access. The system enables users to ask questions about hospital policies and procedures, retrieve information from uploaded medical documents, query patient-related data from a PostgreSQL database, and analyze images such as prescriptions, lab reports, or medical scans.
+MediAssist AI is a healthcare-focused generative AI platform designed to deliver accurate, context-aware support for hospitals and clinical teams. By combining conversational intelligence, retrieval-augmented generation, multimodal analysis, and structured data access, the system helps users retrieve policies, analyze medical documents, and respond to patient-related questions with greater speed and reliability.
 
-The project was developed as a GenAI capstone initiative to demonstrate how multi-agent orchestration, retrieval-augmented generation, multimodal AI, and a modern web interface can be combined into a practical healthcare support tool.
+This capstone project demonstrates how modern AI can be applied to real-world healthcare workflows in a secure, explainable, and deployment-ready manner.
 
 ## Key Features
 
